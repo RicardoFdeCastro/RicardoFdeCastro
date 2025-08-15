@@ -18,14 +18,5 @@ Olá, eu sou Ricardo Castro
 | <a href="https://github.com/ricardofdecastro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardofdecastro&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="ricardofdecastro's github stats" /></a> | <a href="https://github.com/ricardofdecastro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofdecastro&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-
-<a href="https://github.com/ricardofdecastro/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardofdecastro&repo=github-readme-stats&theme=dark" />
-</a>
-<a href="https://github.com/ricardofdecastro/ricardofdecastro.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardofdecastro&repo=ricardofdecastro.github.io&theme=dark" />
-</a>
-
 <br />
 <br />
