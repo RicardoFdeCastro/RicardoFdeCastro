@@ -1,12 +1,15 @@
-Olá, eu sou Ricardo Castro
+**Olá, eu sou Ricardo Castro**
 
-**Sobre mim**
+**Sobre mim**<br>
+Desenvolvedor full-stack com sólida experiência em JavaScript e Python. Especialista em criar interfaces de usuário dinâmicas e responsivas com React, Angular e Vue.js. Proficiente em automação de tarefas e desenvolvimento backend usando Python com Django e Flask. Capaz de integrar APIs, otimizar performance e implementar melhores práticas de SEO.
 
-- 💼 Full-Stack Developer
-- 🌱 Atualmente desenvolvendo habilidades de ciencia de dados
+**Conecte-se comigo**<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardofcastro/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardo_cardof/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contato.castroinformatica@gmail.com)
 
-
-<div style="display: inline_block"><br>
+**Principais habilidades**<br>
+<div style="display: inline_block">
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
