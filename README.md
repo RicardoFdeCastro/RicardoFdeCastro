@@ -14,18 +14,27 @@ Desenvolvedor full-stack com sólida experiência em JavaScript e Python. Especi
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-<!--
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-</div>
--->
 
 
-| <a href="https://github.com/ricardoFdeCastro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardoFdeCastro&show_icons=true&include_all_commits=true&theme=dark&hide_border=false" alt="ricardoFdeCastro's github stats" /></a> | <a href="https://github.com/ricardoFdeCastro/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoFdeCastro&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
 
-<br />
-<br />
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ricardofdecastro&show_icons=true&theme=react&include_all_commits=false&locale=pt-br" 
+  />
+
+  <img 
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ricardofdecastro&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+  />
+</p>
+
+
+</p>
