@@ -25,7 +25,7 @@ Desenvolvedor full-stack com sólida experiência em JavaScript e Python. Especi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ricardofdecastro&show_icons=true&theme=react&include_all_commits=false&locale=pt-br" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ricardofdecastro&show_icons=false&theme=react&include_all_commits=false&locale=pt-br" 
   />
 
   <img 
